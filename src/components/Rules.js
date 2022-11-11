@@ -62,7 +62,7 @@ const RulesStyled = styled.div`
       margin: auto;
       top: 0;
       bottom: initial;
-      transform: translateY(200%);
+      transform: translateY(300%);
       border-radius: 20px;
       padding: 2em;
       box-sizing: border-box;
